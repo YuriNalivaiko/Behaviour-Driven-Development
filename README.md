@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/nn2bc4jrcw1woka9?svg=true)](https://ci.appveyor.com/project/YuriNalivaiko/behaviour-driven-development)
 
 # Домашнее задание к занятию «2.4. BDD»
 
